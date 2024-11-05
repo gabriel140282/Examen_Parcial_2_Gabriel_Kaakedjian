@@ -40,8 +40,11 @@ Crea un programa en C++ que solicite al usuario ingresar un número del 1 al 7. 
 En este ejercicio le pedimos al usuario que ingrese un numero del 1 al 7. En este ejercicio lo ideal es usar el condicional switch, para que me compruebe dependiendo del numero introducido por el usuario (numeros del 1 al 7) cada
 caso correspondiente. Al final del condicional, colocamos el default para que en cualquier otro caso nos muestre por pantalla el texto de que no es un numero valido.
 
-Ejercicio 3: Cálculo de Promedio de Calificaciones
+Ejercicio 3: Cálculo de Promedio de Calificaciones (HECHO POR MI)
 Un estudiante ha completado un curso de programación avanzada en C++. Durante el curso, ha realizado 8 ejercicios prácticos, y cada ejercicio se califica con una nota entre 0 y 10. Escribe un programa que solicite al usuario introducir las calificaciones obtenidas por el estudiante en cada uno de los 8 ejercicios. El programa deberá calcular y mostrar el promedio de las calificaciones. 
+
+En este ejercicio le pido al usuario 8 notas por pantalla y las guardo en cada variable declarada anteriormente. Realizo la suma de las notas y la divido entre la cantidad de las mismas para sacar el promedio total.
+He decidido hacer este ejercicio con variables de tipo float ya que normalmente las notas no suelen ser solo numeros enteros.
 
 Ejercicio 4: Promoción de "3 por 2" en Tienda (HECHO POR MI)
 En una tienda se está ofreciendo una promoción en la cual el cliente puede llevarse tres artículos y pagar solo por los dos artículos más caros. Escribe un programa en C++ que solicite al usuario ingresar los precios de tres artículos y, como resultado, muestre el total que el cliente debe pagar bajo esta promoción.
